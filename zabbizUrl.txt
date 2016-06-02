@@ -1,0 +1,9 @@
+http://www.zabbix.org/wiki/Docs/howto/mysql_partition
+
+https://www.zabbix.com/forum/showthread.php?t=48988
+http://stackoverflow.com/questions/21618015/how-to-connect-to-mysql-database
+
+
+http://stackoverflow.com/questions/14801948/how-to-connect-to-mysql-using-c
+
+
